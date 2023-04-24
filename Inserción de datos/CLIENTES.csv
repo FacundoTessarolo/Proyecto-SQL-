@@ -1,0 +1,16 @@
+id_cliente;nombre;apellido;id_prov;pais;dni_cuit;email;telefono;direccion
+1;DAMIAN;BASILICO;2;Argentina;21571454;eldamo2000@hotmail.com;3489682712;Soldado Ortega 608
+2;Paola;Sanchez;4;Argentina;33060755;paola6798sanchez@gmail.com;1132326954;Mar del Plata
+3;Tomás;Villalba;5;Argentina;45087845;tomivillalba17@gmail.com;1159404361;Saenz peña
+4;Yamila;Vera;7;Argentina;31477527;yamilabelen.vera@gmail.com;1158087241;España
+5;Sandra;Rivello;8;Argentina;14710011;sandramariaraquel@hotmail.com;2213601388;Calle 10 ruta 40
+6;Facundo;Alemañi;21;Argentina;41774769;facualemani066@gmail.com;2901411315;San cayetano
+7;Walter;Valenzuela;22;Argentina;37892653;waltervalenzuela89@gmail.com;3835519993;9 DE JULIO 965
+8;Adrian;Reyes;15;Argentina;31795362;adrianreyes6523@outlook.com;1121866000;calle 15 entre 38 y 40
+9;CRISTIAN;LOPEZ;15;Argentina;17567938;cail1166@hotmail.com;1150216087;Calle Rafael Bielsa
+10;Sabrina;Clementti;16;Argentina;28645270;sabriclementti@gmail.com;2262542117;El montañez
+11;Cassandra;Romero;12;Argentina;41010205;Rgarciagutierrez@gmail.com;1123208057;Sabattini
+12;ariel;cisterna;11;Argentina;35573806;cisternariel@gmail.com;1154835590;Munilla
+13;Luciana;Manzano;8;Argentina;39103485;lucianamanzano13@gmail.com;2345655076;junin
+14;MARTIN;CUCELI;5;Argentina;42304774;okasan.store@gmail.com;3515410008;25 de mayo
+15;Joaquin;Montana;6;Argentina;2039057354;cfacundo@gmail.com;3514565688;jose de medeiros 2488

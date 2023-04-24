@@ -1,0 +1,6 @@
+id_pago;tipo;plan;moneda
+1;debito;1 cuota;pesos
+2;credito;1 cuota;pesos
+3;credito;3 cuotas;pesos
+4;credito;6 cuotas;pesos
+5;transferencia;inmediato;pesos

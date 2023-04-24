@@ -1,0 +1,6 @@
+id_estado;tipo
+1;Anulado
+2;En espera
+3;Enviando
+4;Finalizado
+5;Fallido

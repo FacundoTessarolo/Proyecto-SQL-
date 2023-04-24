@@ -1,0 +1,16 @@
+id_envios;tipo;direccion;fecha;total
+1;Correo Arg a dom;Avenida alvear 4040 alvear;01-02-23;34038.26
+2;Retira local;Pio Leon 1321;02-02-23;1020.02
+3;Correo Arg a dom;BARRIO CONVIVIR CASA 10;03-02-23;3681.94
+4;Correo Arg a dom;ROQUETA 2376 ;04-02-23;1112.05
+5;Enviar a expreso;Av. Colon 1231;05-02-23;1389.96
+6;Retira local;Uruguay 1231;06-02-23;2440.02
+7;24hs FULLKING;Espejo 412;07-02-23;1551.2
+8;Correo Arg a dom;Las palmas 4324;08-02-23;1492.97
+9;Enviar a expreso;Cordoba 1839;09-02-23;1080.53
+10;Retira local;San Luis 21;10-02-23;599.94
+11;Expr retira local;LA FERRERE 1044 ;11-02-23;1080.01
+12;Correo Arg a suc;Beron de astrada;12-02-23;1141.04
+13;Expr retira local;JOSE DE MEDEIROS 3021;10-02-23;1570.01
+14;Correo Arg a dom;Miranda 213;11-02-23;1553.10
+15;Correo Arg a suc;JULIO DE VEDIA 212;12-02-23;985.99
